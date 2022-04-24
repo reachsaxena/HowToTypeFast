@@ -1,0 +1,35 @@
+* {
+  font-size: 40px;
+}
+
+body {
+  text-align: center;
+  background-color: cadetblue;
+}
+
+.cursor {
+  background-color: rgb(18, 122, 122);
+}
+
+.done {
+  color: #bbb;
+}
+
+#typing {
+  margin: 0 auto;
+  width: 300px;
+}
+
+#stats {
+  margin: 0 auto;
+  width: 300px;
+}
+
+.hidden {
+  display: none;
+}
+
+#start-game {
+  background-color: cadetblue;
+  border: none;
+}
